@@ -1,0 +1,20 @@
+{
+    "name": "baris/inocephp",
+    "autoload": {
+        "psr-4": {
+            "Baris\\Inocephp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "barisdongel",
+            "email": "barisdng26@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
